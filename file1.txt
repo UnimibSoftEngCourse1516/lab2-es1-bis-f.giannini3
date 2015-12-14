@@ -2,3 +2,7 @@
 
 Initial content of the first document
 Additional content
+
+##second document
+
+Please see file2.txt
