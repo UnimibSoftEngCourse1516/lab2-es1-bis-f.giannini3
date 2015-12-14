@@ -6,3 +6,7 @@ Additional content
 ##second document
 
 Please see file2.txt
+
+## third document 
+
+please see file3
